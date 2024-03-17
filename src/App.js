@@ -10,10 +10,6 @@ const App = () => {
   return (
     <>
       <Navbar />
-      <Hero />
-      <Card />
-      <Food />
-      <Category />
     </>
   )
 }

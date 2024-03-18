@@ -1,14 +1,10 @@
-import React from 'react'
-import Card from './components/Card'
-import Category from './components/Category'
-import Food from './components/Food'
-import Navbar from './components/Navbar'
+import SearchBar from './components/SearchBar
 
 
 const App = () => {
   return (
     <>
-      <Navbar />
+      <Searchbar />
     </>
   )
 }
